@@ -1,9 +1,17 @@
    <!DOCTYPE html>
     <html>
         <head>
-            <title>Caleb's Website</title>
+            <title>Testing-Website 01</title>
+            <link src="Stylesheet" href="File1Styles.css">
         </head>
         <body>
-            
+            <h1 id="Heading">Welcome!</h1>
+            <div id="BoxOfLinks">
+               <a href="https://www.github.com/bozogoose4/Caleb-Niko_Sandbox/" class="Links">Check out our project!</a>
+               <a href="https://www.codecademy.com" class="Links">CodeCademy Website</a>
+               <a href="https://www.leetcoding.com" class="Links">LeetCoding Website</a>
+               <a href="HtmlFile-2.html"></a>
+            </div>
+            <p></p>
         </body>
     </html>
