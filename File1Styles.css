@@ -12,8 +12,11 @@ Heading {
   text-decoration: none;
   color: aqua;
   font-size: 0.5em;
+  float: left;
 }
 
 #BoxOfLinks {
   background-color: slateblue;
+  margin: 2px 20%;
+  border: 3px outset gray;
 }
