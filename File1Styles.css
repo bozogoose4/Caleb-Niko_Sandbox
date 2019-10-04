@@ -1,0 +1,13 @@
+body {
+  background-color: lightskyblue;
+}
+
+.Links {
+  text-decoration: none;
+  color: aqua;
+  font-size: 0.5em;
+}
+
+#BoxOfLinks {
+  background-color: slateblue;
+}
