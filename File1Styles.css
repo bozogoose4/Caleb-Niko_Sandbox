@@ -2,6 +2,12 @@ body {
   background-color: lightskyblue;
 }
 
+Heading {
+  color: white;
+  background-color: skyblue;
+  margin: 2px 5%;
+}  
+
 .Links {
   text-decoration: none;
   color: aqua;
